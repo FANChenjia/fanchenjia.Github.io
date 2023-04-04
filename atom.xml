@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://mingshen.eu.org</id>
     <title>明燊小站</title>
-    <link href="http://example.com" />
+    <link href="http://mingshen.eu.org" />
     <updated>2023-04-04T09:29:54.000Z</updated>
-    <category term="StableDiffusion漫谈" />
-    <category term="代理" />
     <category term="教程" />
     <category term="AI" />
+    <category term="StableDiffusion漫谈" />
+    <category term="代理" />
     <entry>
-        <id>http://example.com/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
+        <id>http://mingshen.eu.org/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
         <title>macOS软件内录教程</title>
-        <link rel="alternate" href="http://example.com/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/"/>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;mac实现所有录屏软件内录系统声音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mac实现所有录屏软件内录系统声音&#34;&gt;#&lt;/a&gt; mac 实现所有录屏软件内录系统声音&lt;/h1&gt;
 &lt;h2 id=&#34;准备工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备工作&#34;&gt;#&lt;/a&gt; 准备工作&lt;/h2&gt;
 &lt;h3 id=&#34;blackhole&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#blackhole&#34;&gt;#&lt;/a&gt; BlackHole&lt;/h3&gt;
@@ -42,9 +42,9 @@
         <updated>2023-04-04T09:29:54.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/</id>
+        <id>http://mingshen.eu.org/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/</id>
         <title>漫谈Stable Diffusion-第一章</title>
-        <link rel="alternate" href="http://example.com/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/"/>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/"/>
         <content type="html">&lt;h1 id=&#34;漫谈stable-diffusion-第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#漫谈stable-diffusion-第一章&#34;&gt;#&lt;/a&gt; 漫谈 Stable Diffusion - 第一章&lt;/h1&gt;
 &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;这篇文章主要是谈一下目前我对 Stable Diffusion（以下简称 SD）的一些认识和一些简单的 SD 入门知识。&lt;/p&gt;
@@ -106,9 +106,9 @@
         <updated>2023-04-01T08:05:44.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</id>
+        <id>http://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</id>
         <title>终端代理保姆级教程</title>
-        <link rel="alternate" href="http://example.com/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/"/>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;sd代理问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sd代理问题&#34;&gt;#&lt;/a&gt; SD 代理问题&lt;/h1&gt;
 &lt;h2 id=&#34;代理软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代理软件&#34;&gt;#&lt;/a&gt; 代理软件&lt;/h2&gt;
 &lt;p&gt;我使用的是 Clash For Windows（mac 同样可用，GitHub 上搜索下载）&lt;/p&gt;
@@ -139,18 +139,18 @@
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ZsRL4fFCmBqV17D.png&#34; alt=&#34;Picsee-20230324214436&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这时重启终端，不输入代理命令直接运行即可&lt;/p&gt;
 </content>
-        <category term="代理" />
         <category term="教程" />
+        <category term="代理" />
         <updated>2023-03-24T13:34:28.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</id>
+        <id>http://mingshen.eu.org/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</id>
         <title>Stable Diffusion 本地配置教程</title>
-        <link rel="alternate" href="http://example.com/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;#&lt;/a&gt; 基于 WebUI 的跨平台 Stable Diffusion AI 绘画部署教程（目前仅更新 Mac）&lt;/h1&gt;
 &lt;h2 id=&#34;macos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#macos&#34;&gt;#&lt;/a&gt; macOS&lt;/h2&gt;
 &lt;h3 id=&#34;0前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0前言&#34;&gt;#&lt;/a&gt; 0. 前言&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关于终端代理请看&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taW5nc2hlbi5ldS5vcmcvMjAyMy8wMy8yNC8lRTclQkIlODglRTclQUIlQUYlRTQlQkIlQTMlRTclOTAlODYlRTQlQkYlOUQlRTUlQTclODYlRTclQkElQTclRTYlOTUlOTklRTclQTglOEIv&#34;&gt;这篇文章&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于终端代理请看&lt;a href=&#34;https://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/&#34;&gt;这篇文章&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本教程适用于有部分开发基础，懂得命令行基本操作的用户。如果对于 git、homebrew 或者命令行一窍不通，可以尝试 app 封装版本──DiffusionBee，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kaWZmdXNpb25iZWUuY29tLw==&#34;&gt;点我前往官网&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;相较于 DiffusionBee，WebUI 版本的 Stable 可以兼容的模型更多，bug 更少，画面质量更高（DB 目前不支持 vae 文件，很多模型渲染出来会发灰），可以兼容更多的模型（DB 部分模型无法导入）。&lt;/p&gt;
 &lt;p&gt;建议感兴趣的同学可以稍微花个半小时装一下 git，homebrew 等基础依赖，然后跟着本教程一步一步来。&lt;/p&gt;
