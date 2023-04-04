@@ -84,7 +84,8 @@
         <id>http://mingshen.eu.org/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</id>
         <title>Stable Diffusion 本地配置教程</title>
         <link rel="alternate" href="http://mingshen.eu.org/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
-        <content type="html">&lt;h1 id=&#34;基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;#&lt;/a&gt; 基于 WebUI 的跨平台 Stable Diffusion AI 绘画部署教程（目前仅更新 Mac）&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;基于webui的跨平台stable-diffusion-ai绘画部署教程无限期停止维护&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于webui的跨平台stable-diffusion-ai绘画部署教程无限期停止维护&#34;&gt;#&lt;/a&gt; 基于 WebUI 的跨平台 Stable Diffusion AI 绘画部署教程（无限期停止维护）&lt;/h1&gt;
+&lt;h2 id=&#34;由于mac的显卡没有cuda直接跑性能孱弱还有一大堆兼容性问题-作者已弃坑整合包与教程无限期停止更新-旧版整合包仍然可以稳定使用如有需要请加群769746546讨论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#由于mac的显卡没有cuda直接跑性能孱弱还有一大堆兼容性问题-作者已弃坑整合包与教程无限期停止更新-旧版整合包仍然可以稳定使用如有需要请加群769746546讨论&#34;&gt;#&lt;/a&gt; &lt;strong&gt;由于 mac 的显卡没有 CUDA，直接跑性能孱弱，还有一大堆兼容性问题。作者已弃坑，整合包与教程无限期停止更新。旧版整合包仍然可以稳定使用，如有需要请加群 769746546 讨论&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;macos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#macos&#34;&gt;#&lt;/a&gt; macOS&lt;/h2&gt;
 &lt;h3 id=&#34;0前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0前言&#34;&gt;#&lt;/a&gt; 0. 前言&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关于终端代理请看&lt;a href=&#34;https://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/&#34;&gt;这篇文章&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
