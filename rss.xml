@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>明燊小站</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 04 Apr 2023 17:29:54 +0800</pubDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:29:54 +0800</lastBuildDate>
+        <category>AI</category>
+        <category>教程</category>
+        <category>StableDiffusion漫谈</category>
+        <category>代理</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</guid>
+            <title>macOS软件内录教程</title>
+            <link>http://example.com/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</link>
+            <category>教程</category>
+            <pubDate>Tue, 04 Apr 2023 17:29:54 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;mac实现所有录屏软件内录系统声音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mac实现所有录屏软件内录系统声音&#34;&gt;#&lt;/a&gt; mac 实现所有录屏软件内录系统声音&lt;/h1&gt;
+&lt;h2 id=&#34;准备工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备工作&#34;&gt;#&lt;/a&gt; 准备工作&lt;/h2&gt;
+&lt;h3 id=&#34;blackhole&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#blackhole&#34;&gt;#&lt;/a&gt; BlackHole&lt;/h3&gt;
+&lt;p&gt;BlacHole 是一款开源软件，请前往&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0V4aXN0ZW50aWFsQXVkaW8vQmxhY2tIb2xl&#34;&gt;官网&lt;/span&gt;下载&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/FqA7T1mQ4ZYPcfx.png&#34; alt=&#34;Picsee-20230211211240&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;点击后会进入下载页面，如图&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/WKXQINoOp1dJ8FT.png&#34; alt=&#34;Picsee-20230211211251&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;填写完您的邮箱（填真实邮箱）和姓名（可以随便填）之后，前往您的邮箱（不要忘记查看 “垃圾邮件”，大概率会在那里，比如说我的）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/krQRpAmvJ5dgi1W.png&#34; alt=&#34;Picsee-20230211211426&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后点击上面的链接进入真 - 下载页面&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/lT8Mc1Fbxygef5U.png&#34; alt=&#34;Picsee-20230211211447&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;选择版本下载（建议 2ch）。&lt;/p&gt;
+&lt;h3 id=&#34;配置方面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置方面&#34;&gt;#&lt;/a&gt; 配置方面&lt;/h3&gt;
+&lt;p&gt;下载之后正常安装，然后打开系统 “音频 midi 设置”&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/RphxZ3KJHmeFbt9.png&#34; alt=&#34;Picsee-20230211211555&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/RphxZ3KJHmeFbt9.png&#34; alt=&#34;Picsee-20230211211555&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;按照以下步骤设置后，将您的音频输出改为 “黑洞输出（也可自己重命名）”&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/ZbKzkncvjA51JuY.png&#34; alt=&#34;Picsee-20230211211631&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;完成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#完成&#34;&gt;#&lt;/a&gt; 完成！&lt;/h3&gt;
+&lt;p&gt;在您需要录屏时，切换到 “黑洞输出”，不用时就切换回扬声器。&lt;/p&gt;
+&lt;p&gt;在输出源为 “黑洞输出” 的同时，在您的录屏软件中选择麦克风为 “黑洞输出” 即可录制系统声音。&lt;/p&gt;
+&lt;h3 id=&#34;写在最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写在最后&#34;&gt;#&lt;/a&gt; 写在最后&lt;/h3&gt;
+&lt;p&gt;这种方法我不是很建议，更不建议买付费软件。&lt;/p&gt;
+&lt;p&gt;个人推荐开源的 OBS Studio，在 28.0.0 版本后支持免配置内录。并且录屏质量极高。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/11/4QzLnkAOt8mcUyr.png&#34; alt=&#34;Picsee-20230211213132&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/</guid>
+            <title>漫谈Stable Diffusion-第一章</title>
+            <link>http://example.com/2023/04/01/%E6%BC%AB%E8%B0%88Stable-Diffusion/</link>
+            <category>StableDiffusion漫谈</category>
+            <pubDate>Sat, 01 Apr 2023 16:05:44 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;漫谈stable-diffusion-第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#漫谈stable-diffusion-第一章&#34;&gt;#&lt;/a&gt; 漫谈 Stable Diffusion - 第一章&lt;/h1&gt;
+&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;这篇文章主要是谈一下目前我对 Stable Diffusion（以下简称 SD）的一些认识和一些简单的 SD 入门知识。&lt;/p&gt;
+&lt;h2 id=&#34;了解stable-diffusion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#了解stable-diffusion&#34;&gt;#&lt;/a&gt; 了解 Stable Diffusion&lt;/h2&gt;
+&lt;h3 id=&#34;什么是stable-diffusion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是stable-diffusion&#34;&gt;#&lt;/a&gt; 什么是 Stable Diffusion&lt;/h3&gt;
+&lt;p&gt;Stable Diffusion 是由 Stability AI 开发并开源的 AI 绘画扩散模型，Stability 官方提供收费的线上版本 DreanStudio 和 Reimagine 服务。（简单来说，DreamStudio 相当于用他们的 GPU 算图，Reimagine 相当于加强版的 img2img）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/MVrvTPyJE5hYKoS.png&#34; alt=&#34;Picsee-20230401174425&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;stable-diffusion-的优势是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#stable-diffusion-的优势是什么&#34;&gt;#&lt;/a&gt; Stable Diffusion 的优势是什么&lt;/h3&gt;
+&lt;h4 id=&#34;开源社区的维护&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开源社区的维护&#34;&gt;#&lt;/a&gt; 开源社区的维护&lt;/h4&gt;
+&lt;p&gt;作为开源的扩散模型，Stable Diffusion 有庞大的维护者团体，有时候更新频率甚至以分钟来计数（不像 OpenAI 嘴上说着 Open 却一直想着搞钱）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;（最近 Github 上 SD WebUI 的维护者正在更新 Gradio 库，所以 WebUI 开发版本几乎不能用，可能要等几周后插件和后端适配才行）&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;高度的可拓展性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高度的可拓展性&#34;&gt;#&lt;/a&gt; 高度的可拓展性&lt;/h4&gt;
+&lt;p&gt;正是由于开源的特性，很多新技术得以在 SD 上实现，比如 LoRA 和 Control Net 都是其他工具不具备的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/tLZHowATFRfaOP4.png&#34; alt=&#34;Picsee-20230401175931&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;多平台的兼容性以及较低的性能要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#多平台的兼容性以及较低的性能要求&#34;&gt;#&lt;/a&gt; 多平台的兼容性以及较低的性能要求&lt;/h4&gt;
+&lt;p&gt;SD 的 Webui 版本支持几乎所有平台，Windows, macOS, GNU/Linux 均有相应的启动脚本。&lt;/p&gt;
+&lt;p&gt;我所使用的设备是 Apple m1 MacBook Pro 16g，绕过 CUDA 使用 CPU（其实就是 m1 核显） 计算一张 512*512 的图片仅要四十秒左右。如果显存高并且有 CUDA 的话（以 3090 为例），甚至可以一秒钟出一张。如果不炼模型的话一张性能稍高的游戏显卡可以满足所有需求，炼丹的话 A100 一张完全没问题。商业化成本算是很低。&lt;/p&gt;
+&lt;p&gt;* 另：MidJourney 似乎也是用的魔改 SD。&lt;/p&gt;
+&lt;h2 id=&#34;简单了解-stable-diffusion-模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简单了解-stable-diffusion-模型&#34;&gt;#&lt;/a&gt; 简单了解 Stable Diffusion 模型&lt;/h2&gt;
+&lt;h3 id=&#34;章节前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#章节前言&#34;&gt;#&lt;/a&gt; 章节前言&lt;/h3&gt;
+&lt;p&gt;由于目前使用 AI 绘画的群体大多数都用其来生成动漫风格的图片，所以本章节演示的图片均为动漫风格图片，实物风同理。&lt;/p&gt;
+&lt;h3 id=&#34;模型种类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#模型种类&#34;&gt;#&lt;/a&gt; 模型种类&lt;/h3&gt;
+&lt;h4 id=&#34;checkpoint&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#checkpoint&#34;&gt;#&lt;/a&gt; CheckPoint&lt;/h4&gt;
+&lt;p&gt;Checkpoint，通常后缀为 ckpt 或者 safetensors，是 AI 绘画的基础大模型。有 checkpoint 模型就可以直接生成画面，其他种类的模型可以理解为辅助 CheckPoint&lt;/p&gt;
+&lt;h4 id=&#34;lora&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lora&#34;&gt;#&lt;/a&gt; LoRA&lt;/h4&gt;
+&lt;p&gt;LoRA（Low-Rank Adaptation of Large Language Models）简单理解就是对大模型的内容进行微调（对于 AI 绘画来说调整很大）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如，GPT-3 有 1750 亿参数，为了让它能干特定领域的活儿，需要做微调，但是如果直接对 GPT-3 做微调，成本太高太麻烦了。&lt;/p&gt;
+&lt;p&gt;LoRA 的做法是，冻结预训练好的模型权重参数，然后在每个 Transformer（Transformer 就是 GPT 的那个 T）块里注入可训练的层，由于不需要对模型的权重参数重新计算梯度，所以，大大减少了需要训练的计算量。&lt;/p&gt;
+&lt;p&gt;研究发现，LoRA 的微调质量与全模型微调相当，我愿称之为神器。&lt;/p&gt;
+&lt;p&gt;要做个比喻的话，就好比是大模型的一个小模型，或者说是一个插件。&lt;/p&gt;
+&lt;p&gt;LoRA 本来是给大语言模型准备的，但把它用在 cross-attention layers（交叉关注层）也能影响用文字生成图片的效果。&lt;/p&gt;
+&lt;p&gt;── 知乎用户 奉孝翼德 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MTAwMzE3MTM=&#34;&gt;Stable Diffusion 爱好者常说的 LoRa 是什么？&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;vae&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vae&#34;&gt;#&lt;/a&gt; Vae&lt;/h4&gt;
+&lt;p&gt;Vae 涉及的原理很复杂，在此不赘述。只要不加载 Vae 会使画面发灰就行了&lt;/p&gt;
+&lt;h3 id=&#34;针对于模型样例的对比示例为控制变量以下图片-seed采样方式采样步数均相同无后处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#针对于模型样例的对比示例为控制变量以下图片-seed采样方式采样步数均相同无后处理&#34;&gt;#&lt;/a&gt; 针对于模型样例的对比示例（为控制变量，以下图片 Seed，采样方式，采样步数均相同，无后处理）&lt;/h3&gt;
+&lt;p&gt;Anything V3.0 Checkpoint，不加载 LoRA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/QNmSEcC4dLuODos.png&#34; alt=&#34;00010-3405425322&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Anything V3.0 Checkpoint，加载 chibi LoRA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/sxzlkPACHgbcUaQ.png&#34; alt=&#34;00013-3405425322&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Anything V3.0 Checkpoint，加载 Nahida LoRA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/fuRtNcDlvW8Pkxi.png&#34; alt=&#34;00015-3405425322&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Pastel-Mix Checkpoint，不加载 LoRA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/UnTbIXHc29hewCS.png&#34; alt=&#34;00011-3405425322&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;由此可以看出不同的模型对画面的影响&lt;/p&gt;
+&lt;h2 id=&#34;商业化前景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#商业化前景&#34;&gt;#&lt;/a&gt; 商业化前景&lt;/h2&gt;
+&lt;p&gt;现在写实风格的 Checkpoint 最主要的还是 sd 模型，可以到抱脸站（Hugging Face）或者其他模型网站下载。&lt;/p&gt;
+&lt;p&gt;AI 绘图通过炼制模型低成本地生成基本图片，经过轻度人工润色，以实现商业化。（亦可作为设计师的灵感来源。）&lt;/p&gt;
+&lt;p&gt;目前比较低成本的方式是通过租用云 GPU 服务器（几块钱一小时）训练自己的 LoRA（训练量小，需求的图片训练集小，速度快，配置要求低）。非常不推荐训练 Checkpoint（ckpt 一般通过合并多个模型来实现炼制）。通过自己的 LoRA 结合 sd 模型来达到需求&lt;/p&gt;
+&lt;p&gt;已有人成功过，详见&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVpYNHkxVTdXeS8/c3BtX2lkX2Zyb209MzMzLjMzNy5zZWFyY2gtY2FyZC5hbGwuY2xpY2s=&#34;&gt;AI Lora 技术，跑通炼实物模型 + 写实风格，商业化还差半步～&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMUprNHkxYjdtcy8/c3BtX2lkX2Zyb209MzMzLjc4OC50b3BfcmlnaHRfYmFyX3dpbmRvd19oaXN0b3J5LmNvbnRlbnQuY2xpY2smYW1wO3ZkX3NvdXJjZT01MmI4ZThjZDBlZjA0OGVkMDdmNzU1ZDE3YzY3NzRiNw==&#34;&gt;摩飞（Morphy Richards）生活家电产品风格 lora 训练效果&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;补充说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#补充说明&#34;&gt;#&lt;/a&gt; 补充说明&lt;/h2&gt;
+&lt;p&gt;本专栏还会有第二期，会讲解 WebUI 各项功能的用法和具体介绍 ControlNet 的用法，敬请期待。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;跑图的话 4g 左右显存 N 卡就够了，训练的话要 8g 显存的 n 卡起步（至少 RTX 3070+）云服务器方式我没试过，但是很多人炼丹会选用&lt;/strong&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</guid>
+            <title>终端代理保姆级教程</title>
+            <link>http://example.com/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</link>
+            <category>教程</category>
+            <category>代理</category>
+            <pubDate>Fri, 24 Mar 2023 21:34:28 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;sd代理问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sd代理问题&#34;&gt;#&lt;/a&gt; SD 代理问题&lt;/h1&gt;
+&lt;h2 id=&#34;代理软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代理软件&#34;&gt;#&lt;/a&gt; 代理软件&lt;/h2&gt;
+&lt;p&gt;我使用的是 Clash For Windows（mac 同样可用，GitHub 上搜索下载）&lt;/p&gt;
+&lt;p&gt;默认是没有汉化的，可以根据截图操作&lt;/p&gt;
+&lt;p&gt;此处以它为例&lt;/p&gt;
+&lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;机场推荐两个按量买的比较便宜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#机场推荐两个按量买的比较便宜&#34;&gt;#&lt;/a&gt; 机场（推荐两个按量买的，比较便宜）&lt;/h2&gt;
+&lt;h3 id=&#34;mofast-魔法云&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mofast-魔法云&#34;&gt;#&lt;/a&gt; MoFast 魔法云&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tb2Zhc3QudG9wLyMvcmVnaXN0ZXI/Y29kZT1PVFpwbDQ4MA==&#34;&gt;MoFast（点击直接跳转官网）&lt;/span&gt;，余额制机场，一块钱就可以用，不下模型的话充一两块钱即可，界面干净，已经用了一年了，可以长期使用，性价比不错。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/QRgwU8fWSnkyaxN.png&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后到 “订阅信息” 中选择一键导入 =&amp;gt; 导入 Clash&lt;/p&gt;
+&lt;h3 id=&#34;魔戒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#魔戒&#34;&gt;#&lt;/a&gt; 魔戒&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9qaWUubWUvIy9yZWdpc3Rlcj9jb2RlPUo4MlY3VWs0&#34;&gt;魔戒（点我直接跳转）&lt;/span&gt;相比 MoFast 的优点是节点多，性价比更高，但是延迟会略高&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/1pAfxw9i2qY7UIM.png&#34; alt=&#34;Picsee-20230401172216&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;选好计划后，在仪表盘 - 一键订阅中复制订阅地址，粘贴在&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/2u6oWC89DFKEklb.png&#34; alt=&#34;Picsee-20230401172325&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;终端代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#终端代理&#34;&gt;#&lt;/a&gt; 终端代理&lt;/h2&gt;
+&lt;p&gt;导入后在 Proxy 选项中选好节点&lt;/p&gt;
+&lt;p&gt;点击 “全局” 复制终端代理命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/JHVa1ocIb4NRY6Z.png&#34; alt=&#34;Picsee-20230324214151&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后点击这个复制终端代理命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ehG9zxwENRMf6KQ.png&#34; alt=&#34;Picsee-20230324214240&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ym3GSshdiobvXaT.png&#34; alt=&#34;Picsee-20230324214316&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;粘帖并回车即可&lt;/p&gt;
+&lt;p&gt;然后正常执行安装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;！如果你使用代理安装完成 Stable Diffusion 之后，会报这个错&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ZsRL4fFCmBqV17D.png&#34; alt=&#34;Picsee-20230324214436&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这时重启终端，不输入代理命令直接运行即可&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</guid>
+            <title>Stable Diffusion 本地配置教程</title>
+            <link>http://example.com/2023/03/11/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</link>
+            <category>AI</category>
+            <category>教程</category>
+            <pubDate>Sat, 11 Mar 2023 15:04:53 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于webui的跨平台stable-diffusion-ai绘画部署教程目前仅更新mac&#34;&gt;#&lt;/a&gt; 基于 WebUI 的跨平台 Stable Diffusion AI 绘画部署教程（目前仅更新 Mac）&lt;/h1&gt;
+&lt;h2 id=&#34;macos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#macos&#34;&gt;#&lt;/a&gt; macOS&lt;/h2&gt;
+&lt;h3 id=&#34;0前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0前言&#34;&gt;#&lt;/a&gt; 0. 前言&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关于终端代理请看&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taW5nc2hlbi5ldS5vcmcvMjAyMy8wMy8yNC8lRTclQkIlODglRTclQUIlQUYlRTQlQkIlQTMlRTclOTAlODYlRTQlQkYlOUQlRTUlQTclODYlRTclQkElQTclRTYlOTUlOTklRTclQTglOEIv&#34;&gt;这篇文章&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本教程适用于有部分开发基础，懂得命令行基本操作的用户。如果对于 git、homebrew 或者命令行一窍不通，可以尝试 app 封装版本──DiffusionBee，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kaWZmdXNpb25iZWUuY29tLw==&#34;&gt;点我前往官网&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;相较于 DiffusionBee，WebUI 版本的 Stable 可以兼容的模型更多，bug 更少，画面质量更高（DB 目前不支持 vae 文件，很多模型渲染出来会发灰），可以兼容更多的模型（DB 部分模型无法导入）。&lt;/p&gt;
+&lt;p&gt;建议感兴趣的同学可以稍微花个半小时装一下 git，homebrew 等基础依赖，然后跟着本教程一步一步来。&lt;/p&gt;
+&lt;h3 id=&#34;1依赖安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1依赖安装&#34;&gt;#&lt;/a&gt; 1. 依赖安装&lt;/h3&gt;
+&lt;p&gt;请先确定您正处于代理状态（或者 homebrew 和 pip 的镜像源很稳定）&lt;/p&gt;
+&lt;p&gt;打开 mac 的终端，按顺序输入以下命令&lt;/p&gt;
+&lt;p&gt;1）使用 OSHelper 配置 Xcode CLT 和 Homebrew（安装过的不用再装了）&lt;/p&gt;
+&lt;p&gt;输入以下命令唤起 OSHelper&lt;/p&gt;
+&lt;p&gt;按照指引安装 Xcode CLT 和 Homebrew（安装 Homebrew 时最后会让你跑两行命令，请留意，一般来说会在输出结束前几行有提示）&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;curl&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-L&lt;/span&gt; https://ghproxy.com/https://raw.githubusercontent.com/Ligure-Studio/MacOSHelperShell/main/OSHelper_Stable.sh &lt;span class=&#34;token parameter variable&#34;&gt;-O&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;sh&lt;/span&gt; OSHelper_Stable.sh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;2）安装基本依赖&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;brew &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; cmake protobuf rust python@3.10 &lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;wget&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;3）前往&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zL0lPN1NWdi1QMWFqaC5odG1s&#34;&gt;网盘&lt;/span&gt;下载整合包&lt;/p&gt;
+&lt;p&gt;下载完成之后解压放在你喜欢的路径并执行指令&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;文件夹路径&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;./webui.sh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;注意：&lt;strong&gt;一定要 cd 进去再打开，不要直接 sh ~/stable-diffusion-webui/webui.sh，不然会报错&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4）完成&lt;/p&gt;
+&lt;p&gt;跟着提示走就行了，有报错可以在下面发帖，我会回复&lt;/p&gt;
+&lt;p&gt;在所有依赖自动安装完成后，会有如图显示&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/25/34SfXtIVjBKeb9r.png&#34; alt=&#34;Picsee-20230225151338&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;接着可以访问上面的 local URL 来进行 AI 绘画啦！&lt;/p&gt;
+&lt;p&gt;整合包中已经自带常用插件与模型&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/25/VSZ5HKY7L8hjsvn.png&#34; alt=&#34;Picsee-20230225151555&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;绘画图片展示&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/v1KUVS3DkmPz5iW.png&#34; alt=&#34;00005-131185446&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/eN92axkl47UJYXn.png&#34; alt=&#34;00104-3078842384&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/RIYjZAGN2Efx1Dt.png&#34; alt=&#34;00085-3078842365&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/F5HWIgwfXzRuaEO.png&#34; alt=&#34;00087-3078842367&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/3g7RsaQeP2thSAM.png&#34; alt=&#34;00084-3078842364&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/5ZJUFpyHk9NRmdV.png&#34; alt=&#34;00026-1260762057&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/uCbl7BYpmzAIOdE.png&#34; alt=&#34;00022-2866403212&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/03/11/fMG1IhVkby9ciLg.png&#34; alt=&#34;00014-1510261546&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以配合&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Vwc2NheWwvdXBzY2F5bC9yZWxlYXNlcw==&#34;&gt; Upscayl&lt;/span&gt; 进行超分辨率&lt;/p&gt;
+&lt;h3 id=&#34;写在后面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写在后面&#34;&gt;#&lt;/a&gt; 写在后面&lt;/h3&gt;
+&lt;p&gt;出图速度我的 m1 16gb 大概是在半分钟到一分钟，配置差的话参数不要调太大。&lt;/p&gt;
+&lt;p&gt;这个也有 colab 版本，不过本地会更舒服一点（个人感觉）&lt;/p&gt;
+&lt;h3 id=&#34;代理方面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代理方面&#34;&gt;#&lt;/a&gt; 代理方面&lt;/h3&gt;
+&lt;p&gt;可以使用 Clash For Windows（mac 同样可用，GitHub 上搜索下载）&lt;/p&gt;
+&lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
