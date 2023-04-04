@@ -4,10 +4,10 @@
     <title>明燊小站 • Posts by &#34;教程&#34; tag</title>
     <link href="http://example.com" />
     <updated>2023-04-04T09:29:54.000Z</updated>
-    <category term="AI" />
-    <category term="教程" />
     <category term="StableDiffusion漫谈" />
     <category term="代理" />
+    <category term="教程" />
+    <category term="AI" />
     <entry>
         <id>http://example.com/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
         <title>macOS软件内录教程</title>
@@ -75,8 +75,8 @@
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ZsRL4fFCmBqV17D.png&#34; alt=&#34;Picsee-20230324214436&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这时重启终端，不输入代理命令直接运行即可&lt;/p&gt;
 </content>
-        <category term="教程" />
         <category term="代理" />
+        <category term="教程" />
         <updated>2023-03-24T13:34:28.000Z</updated>
     </entry>
     <entry>
@@ -125,8 +125,8 @@
 &lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="AI" />
         <category term="教程" />
+        <category term="AI" />
         <updated>2023-03-11T07:04:53.000Z</updated>
     </entry>
 </feed>
