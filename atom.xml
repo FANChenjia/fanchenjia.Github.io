@@ -7,7 +7,8 @@
     <category term="教程" />
     <category term="AI" />
     <category term="代理" />
-    <category term="StableDiffusion漫谈" />
+    <category term="Stable Diffusion" />
+    <category term="杂谈" />
     <entry>
         <id>http://mingshen.eu.org/2023/04/04/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
         <title>macOS软件内录教程</title>
@@ -102,7 +103,8 @@
 &lt;p&gt;本专栏还会有第二期，会讲解 WebUI 各项功能的用法和具体介绍 ControlNet 的用法，敬请期待。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;跑图的话 4g 左右显存 N 卡就够了，训练的话要 8g 显存的 n 卡起步（至少 RTX 3070+）云服务器方式我没试过，但是很多人炼丹会选用&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="StableDiffusion漫谈" />
+        <category term="Stable Diffusion" />
+        <category term="杂谈" />
         <updated>2023-04-01T08:05:44.000Z</updated>
     </entry>
     <entry>
