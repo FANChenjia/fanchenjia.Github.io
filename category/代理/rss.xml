@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>明燊小站 • Posts by &#34;代理&#34; category</title>
+        <link>http://mingshen.eu.org</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 24 Mar 2023 21:34:28 +0800</pubDate>
+        <lastBuildDate>Fri, 24 Mar 2023 21:34:28 +0800</lastBuildDate>
+        <category>教程</category>
+        <category>AI</category>
+        <category>代理</category>
+        <category>Stable Diffusion</category>
+        <category>杂谈</category>
+        <item>
+            <guid isPermalink="true">http://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</guid>
+            <title>终端代理保姆级教程</title>
+            <link>http://mingshen.eu.org/2023/03/24/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</link>
+            <category>教程</category>
+            <category>代理</category>
+            <pubDate>Fri, 24 Mar 2023 21:34:28 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;sd代理问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sd代理问题&#34;&gt;#&lt;/a&gt; SD 代理问题&lt;/h1&gt;
+&lt;h2 id=&#34;代理软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代理软件&#34;&gt;#&lt;/a&gt; 代理软件&lt;/h2&gt;
+&lt;p&gt;我使用的是 Clash For Windows（mac 同样可用，GitHub 上搜索下载）&lt;/p&gt;
+&lt;p&gt;默认是没有汉化的，可以根据截图操作&lt;/p&gt;
+&lt;p&gt;此处以它为例&lt;/p&gt;
+&lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;机场推荐两个按量买的比较便宜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#机场推荐两个按量买的比较便宜&#34;&gt;#&lt;/a&gt; 机场（推荐两个按量买的，比较便宜）&lt;/h2&gt;
+&lt;h3 id=&#34;mofast-魔法云&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mofast-魔法云&#34;&gt;#&lt;/a&gt; MoFast 魔法云&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tb2Zhc3QudG9wLyMvcmVnaXN0ZXI/Y29kZT1PVFpwbDQ4MA==&#34;&gt;MoFast（点击直接跳转官网）&lt;/span&gt;，余额制机场，一块钱就可以用，不下模型的话充一两块钱即可，界面干净，已经用了一年了，可以长期使用，性价比不错。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/QRgwU8fWSnkyaxN.png&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后到 “订阅信息” 中选择一键导入 =&amp;gt; 导入 Clash&lt;/p&gt;
+&lt;h3 id=&#34;魔戒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#魔戒&#34;&gt;#&lt;/a&gt; 魔戒&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9qaWUubWUvIy9yZWdpc3Rlcj9jb2RlPUo4MlY3VWs0&#34;&gt;魔戒（点我直接跳转）&lt;/span&gt;相比 MoFast 的优点是节点多，性价比更高，但是延迟会略高&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/1pAfxw9i2qY7UIM.png&#34; alt=&#34;Picsee-20230401172216&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;选好计划后，在仪表盘 - 一键订阅中复制订阅地址，粘贴在&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/01/2u6oWC89DFKEklb.png&#34; alt=&#34;Picsee-20230401172325&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;终端代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#终端代理&#34;&gt;#&lt;/a&gt; 终端代理&lt;/h2&gt;
+&lt;p&gt;导入后在 Proxy 选项中选好节点&lt;/p&gt;
+&lt;p&gt;点击 “全局” 复制终端代理命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/JHVa1ocIb4NRY6Z.png&#34; alt=&#34;Picsee-20230324214151&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后点击这个复制终端代理命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ehG9zxwENRMf6KQ.png&#34; alt=&#34;Picsee-20230324214240&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ym3GSshdiobvXaT.png&#34; alt=&#34;Picsee-20230324214316&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;粘帖并回车即可&lt;/p&gt;
+&lt;p&gt;然后正常执行安装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;！如果你使用代理安装完成 Stable Diffusion 之后，会报这个错&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/24/ZsRL4fFCmBqV17D.png&#34; alt=&#34;Picsee-20230324214436&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这时重启终端，不输入代理命令直接运行即可&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
