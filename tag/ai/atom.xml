@@ -4,11 +4,11 @@
     <title>明燊小站 • Posts by &#34;ai&#34; tag</title>
     <link href="http://mingshen.eu.org" />
     <updated>2023-03-11T07:04:53.000Z</updated>
-    <category term="教程" />
-    <category term="AI" />
-    <category term="代理" />
     <category term="Stable Diffusion" />
     <category term="杂谈" />
+    <category term="AI" />
+    <category term="教程" />
+    <category term="代理" />
     <entry>
         <id>http://mingshen.eu.org/2023/03/11/course/mac/Stable-Diffusion-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</id>
         <title>Stable Diffusion 本地配置教程</title>
@@ -56,8 +56,8 @@
 &lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="教程" />
         <category term="AI" />
+        <category term="教程" />
         <updated>2023-03-11T07:04:53.000Z</updated>
     </entry>
 </feed>

@@ -4,11 +4,11 @@
     <title>明燊小站</title>
     <link href="http://mingshen.eu.org" />
     <updated>2023-04-04T09:29:54.000Z</updated>
-    <category term="教程" />
-    <category term="AI" />
-    <category term="代理" />
     <category term="Stable Diffusion" />
     <category term="杂谈" />
+    <category term="AI" />
+    <category term="教程" />
+    <category term="代理" />
     <entry>
         <id>http://mingshen.eu.org/2023/04/04/course/mac/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
         <title>macOS软件内录教程</title>
@@ -43,9 +43,9 @@
         <updated>2023-04-04T09:29:54.000Z</updated>
     </entry>
     <entry>
-        <id>http://mingshen.eu.org/2023/04/01/note/ai/Stable%20Diffusion/%E6%BC%AB%E8%B0%88Stable-Diffusion/</id>
+        <id>http://mingshen.eu.org/2023/04/01/note/ai/sd/%E6%BC%AB%E8%B0%88Stable-Diffusion/</id>
         <title>漫谈Stable Diffusion-第一章</title>
-        <link rel="alternate" href="http://mingshen.eu.org/2023/04/01/note/ai/Stable%20Diffusion/%E6%BC%AB%E8%B0%88Stable-Diffusion/"/>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/04/01/note/ai/sd/%E6%BC%AB%E8%B0%88Stable-Diffusion/"/>
         <content type="html">&lt;h1 id=&#34;漫谈stable-diffusion-第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#漫谈stable-diffusion-第一章&#34;&gt;#&lt;/a&gt; 漫谈 Stable Diffusion - 第一章&lt;/h1&gt;
 &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;这篇文章主要是谈一下目前我对 Stable Diffusion（以下简称 SD）的一些认识和一些简单的 SD 入门知识。&lt;/p&gt;
@@ -192,8 +192,8 @@
 &lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="教程" />
         <category term="AI" />
+        <category term="教程" />
         <updated>2023-03-11T07:04:53.000Z</updated>
     </entry>
 </feed>
