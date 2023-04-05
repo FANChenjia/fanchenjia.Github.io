@@ -4,11 +4,11 @@
     <title>明燊小站 • Posts by &#34;教程&#34; tag</title>
     <link href="http://mingshen.eu.org" />
     <updated>2023-04-04T09:29:54.000Z</updated>
-    <category term="Stable Diffusion" />
-    <category term="杂谈" />
-    <category term="AI" />
     <category term="教程" />
     <category term="代理" />
+    <category term="AI" />
+    <category term="Stable Diffusion" />
+    <category term="杂谈" />
     <entry>
         <id>http://mingshen.eu.org/2023/04/04/course/mac/macOS%E8%BD%AF%E4%BB%B6%E5%86%85%E5%BD%95%E6%95%99%E7%A8%8B/</id>
         <title>macOS软件内录教程</title>
@@ -127,8 +127,8 @@
 &lt;p&gt;打开服务模式和 TUN 模式&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="AI" />
         <category term="教程" />
+        <category term="AI" />
         <updated>2023-03-11T07:04:53.000Z</updated>
     </entry>
 </feed>
