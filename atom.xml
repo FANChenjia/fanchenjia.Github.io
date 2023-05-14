@@ -1,14 +1,31 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mingshen.eu.org</id>
-    <title>明燊的小树洞</title>
+    <title>猫猫转圈圈~</title>
     <link href="http://mingshen.eu.org" />
-    <updated>2023-04-09T04:40:31.000Z</updated>
+    <updated>2023-05-14T08:19:14.000Z</updated>
     <category term="教程" />
     <category term="代理" />
     <category term="AI" />
     <category term="Stable Diffusion" />
     <category term="杂谈" />
+    <entry>
+        <id>http://mingshen.eu.org/2023/05/14/%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90/</id>
+        <title>母亲节快乐</title>
+        <link rel="alternate" href="http://mingshen.eu.org/2023/05/14/%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90/"/>
+        <content type="html">&lt;h1 id=&#34;母亲节快乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#母亲节快乐&#34;&gt;#&lt;/a&gt; 母亲节快乐！&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本页面将存在 7 天，7 天后将自动删除&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;祝母亲大人节日快乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#祝母亲大人节日快乐&#34;&gt;#&lt;/a&gt; 祝母亲大人节日快乐&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;今天是母亲节，我想借这个机会向你表达我的感激之情。你一直是我生命中最重要的人，你给予了我无尽的爱和关怀。你教会了我很多宝贵的东西，比如如何做一个善良、诚实、勇敢的人，如何尊重他人，如何追求自己的梦想。你总是支持我，鼓励我，陪伴我，无论我遇到什么困难和挑战，你都不会放弃我。你为了我付出了很多，牺牲了很多，我知道这些都不容易。你是我最好的朋友，也是我最敬佩的人。&lt;/p&gt;
+&lt;p&gt;妈妈，我爱你，我感谢你。在这个特别的日子里，我祝福你健康、快乐、美丽。我希望有一天，我能像你一样成为一个优秀的人，让你为我骄傲。请接受我的一份小小的礼物，它代表了我的一颗真挚的心。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;!! 我才不会说这是 Bing 生成的 :p！！&lt;/p&gt;
+</content>
+        <updated>2023-05-14T08:19:14.000Z</updated>
+    </entry>
     <entry>
         <id>http://mingshen.eu.org/2023/04/09/note/ai/sd/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
         <title>漫谈Stable Diffusion - 第二章</title>
