@@ -5,12 +5,15 @@
     "home_page_url": "http://mingshen.eu.org",
     "items": [
         {
-            "id": "http://mingshen.eu.org/2023/08/17/course/proxy/macOS-%E4%BB%A3%E7%90%86%E6%96%B0%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/",
-            "url": "http://mingshen.eu.org/2023/08/17/course/proxy/macOS-%E4%BB%A3%E7%90%86%E6%96%B0%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/",
-            "title": "macOS 代理新保姆级教程",
-            "date_published": "2023-08-17T12:29:08.000Z",
-            "content_html": "",
-            "tags": []
+            "id": "http://mingshen.eu.org/2023/08/29/note/ai/sd/%E5%85%B3%E4%BA%8E%E9%A1%BA%E7%BD%91%E7%81%B5%E6%82%89%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%BB%BA%E8%AE%AE/",
+            "url": "http://mingshen.eu.org/2023/08/29/note/ai/sd/%E5%85%B3%E4%BA%8E%E9%A1%BA%E7%BD%91%E7%81%B5%E6%82%89%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%BB%BA%E8%AE%AE/",
+            "title": "关于顺网灵悉的若干建议",
+            "date_published": "2023-08-29T10:16:40.000Z",
+            "content_html": "<h1 id=\"关于顺网灵悉的若干建议\"><a class=\"anchor\" href=\"#关于顺网灵悉的若干建议\">#</a> 关于顺网灵悉的若干建议</h1>\n<h2 id=\"概述\"><a class=\"anchor\" href=\"#概述\">#</a> 概述</h2>\n<p>目前，顺网灵悉的测试版本已经上线，开放的功能包括 AI 聊天、写作、图像生成等。我在此针对 UI、文生图、文生文等功能提出一些建议</p>\n<h2 id=\"ui-方面\"><a class=\"anchor\" href=\"#ui-方面\">#</a> UI 方面</h2>\n<h3 id=\"icon-和-ui-主题色不匹配\"><a class=\"anchor\" href=\"#icon-和-ui-主题色不匹配\">#</a> icon 和 UI 主题色不匹配</h3>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/KHvaro3UXbEVpmZ.png\" alt=\"Picsee-20230829184251\" /></p>\n<p>icon 和 UI 颜色不匹配会有一定割裂感，市面上较为有代表性的 AI 软件基本都会统一一个主题色（也有助于树立品牌效应）</p>\n<blockquote>\n<p>ChatX 的 icon 和界面</p>\n</blockquote>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/jPSdtU4aAsrZJXM.png\" alt=\"Picsee-20230829184445\" /></p>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/RsHDNmfvS1uOLTG.png\" alt=\"Picsee-20230829184655\" /></p>\n<h3 id=\"退出及最小化反直觉\"><a class=\"anchor\" href=\"#退出及最小化反直觉\">#</a> 退出及最小化反直觉</h3>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/gNPi5A3OXTdUHWB.png\" alt=\"Picsee-20230829184744\" /></p>\n<p>按退出键后会有悬浮窗持续存在</p>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/UkQEsKWSoltID8G.png\" alt=\"Picsee-20230829184832\" /></p>\n<p>最小化时则不存在悬浮窗</p>\n<p>** 按直觉来说退出之后应该软件本体包括后台进程全部退出，最小化则会最小化为悬浮窗。** 现在这样的操作逻辑容易使人不知道如何完全退出软件。</p>\n<p>![image-20230829185312841](/Users/fanchenjia/Library/Application Support/typora-user-images/image-20230829185312841.png)</p>\n<p>设置面板可以与个人中心分离单拎出来放在左下角，具体参考</p>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/F817eCWiQzjKGIJ.png\" alt=\"Picsee-20230829185428\" /></p>\n<blockquote>\n<p>微信 mac 版</p>\n</blockquote>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/3EifhWqMAbFQX9d.png\" alt=\"Picsee-20230829185508\" /></p>\n<blockquote>\n<p>QQNT</p>\n</blockquote>\n<h2 id=\"文生文方面\"><a class=\"anchor\" href=\"#文生文方面\">#</a> 文生文方面</h2>\n<p>语言模型的调试暂不谈论，旁边的 Live2D 有几点</p>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/uHvsaYe12ghSQxp.png\" alt=\"Picsee-20230829185635\" /></p>\n<p>首先是鼠标跟随，只有头部转动，眼部不转动，效果及其诡异</p>\n<p>可以参考以下 Live2D</p>\n<p>另：可以给灵悉设计一个看板娘，整体聊天的 Live2D 可以偏向二次元风格一点而非真人风格，比较迎合年轻游戏玩家爱好吧</p>\n<p><img data-src=\"https://s2.loli.net/2023/08/29/moXMEw4VqfGxe9d.png\" alt=\"Picsee-20230829183048\" /></p>\n",
+            "tags": [
+                "Stable Diffusion",
+                "杂谈"
+            ]
         },
         {
             "id": "http://mingshen.eu.org/2023/04/09/note/ai/sd/%E7%AC%AC%E4%BA%8C%E7%AB%A0/",
@@ -42,17 +45,6 @@
             "tags": [
                 "Stable Diffusion",
                 "杂谈"
-            ]
-        },
-        {
-            "id": "http://mingshen.eu.org/2023/03/24/course/proxy/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/",
-            "url": "http://mingshen.eu.org/2023/03/24/course/proxy/%E7%BB%88%E7%AB%AF%E4%BB%A3%E7%90%86%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/",
-            "title": "终端代理保姆级教程",
-            "date_published": "2023-03-24T13:34:28.000Z",
-            "content_html": "<h1 id=\"sd代理问题\"><a class=\"anchor\" href=\"#sd代理问题\">#</a> SD 代理问题</h1>\n<h2 id=\"代理软件\"><a class=\"anchor\" href=\"#代理软件\">#</a> 代理软件</h2>\n<p>我使用的是 Clash For Windows（mac 同样可用，GitHub 上搜索下载）</p>\n<p>默认是没有汉化的，可以根据截图操作</p>\n<p>此处以它为例</p>\n<p>打开服务模式和 TUN 模式</p>\n<p><img data-src=\"https://s2.loli.net/2023/03/18/D3NtVdRlLEsAaOu.png\" alt=\"1\" /></p>\n<h2 id=\"机场推荐两个按量买的比较便宜\"><a class=\"anchor\" href=\"#机场推荐两个按量买的比较便宜\">#</a> 机场（推荐两个按量买的，比较便宜）</h2>\n<h3 id=\"taffycloud-原mofast\"><a class=\"anchor\" href=\"#taffycloud-原mofast\">#</a> TaffyCloud （原 MoFast）</h3>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly90YWZmeS5jbG91ZC8jL2xvZ2luP3R5cGU9cmVnJmFtcDthZmZjb2RlPU9UWnBsNDgw\">MoFast（点击直接跳转官网）</span>，余额制机场，一块钱就可以用，不下模型的话充一两块钱即可，界面干净，已经用了一年了，可以长期使用，性价比不错。</p>\n<p><img data-src=\"https://s2.loli.net/2023/03/18/QRgwU8fWSnkyaxN.png\" alt=\"2\" /></p>\n<p>然后到 “订阅信息” 中选择一键导入 =&gt; 导入 Clash</p>\n<h3 id=\"魔戒\"><a class=\"anchor\" href=\"#魔戒\">#</a> 魔戒</h3>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubW9qaWUubWUvIy9yZWdpc3Rlcj9jb2RlPUo4MlY3VWs0\">魔戒（点我直接跳转）</span>相比 MoFast 的优点是节点多，性价比更高，但是延迟会略高</p>\n<p><img data-src=\"https://s2.loli.net/2023/04/01/1pAfxw9i2qY7UIM.png\" alt=\"Picsee-20230401172216\" /></p>\n<p>选好计划后，在仪表盘 - 一键订阅中复制订阅地址，粘贴在</p>\n<p><img data-src=\"https://s2.loli.net/2023/04/01/2u6oWC89DFKEklb.png\" alt=\"Picsee-20230401172325\" /></p>\n<h2 id=\"终端代理\"><a class=\"anchor\" href=\"#终端代理\">#</a> 终端代理</h2>\n<p>导入后在 Proxy 选项中选好节点</p>\n<p>点击 “全局” 复制终端代理命令</p>\n<p><img data-src=\"https://s2.loli.net/2023/03/24/JHVa1ocIb4NRY6Z.png\" alt=\"Picsee-20230324214151\" /></p>\n<p>然后点击这个复制终端代理命令</p>\n<p><img data-src=\"https://s2.loli.net/2023/03/24/ehG9zxwENRMf6KQ.png\" alt=\"Picsee-20230324214240\" /></p>\n<p><img data-src=\"https://s2.loli.net/2023/03/24/ym3GSshdiobvXaT.png\" alt=\"Picsee-20230324214316\" /></p>\n<p>粘帖并回车即可</p>\n<p>然后正常执行安装</p>\n<p><strong>注意</strong>！如果你使用代理安装完成 Stable Diffusion 之后，会报这个错</p>\n<p><img data-src=\"https://s2.loli.net/2023/03/24/ZsRL4fFCmBqV17D.png\" alt=\"Picsee-20230324214436\" /></p>\n<p>这时重启终端，不输入代理命令直接运行即可</p>\n",
-            "tags": [
-                "教程",
-                "代理"
             ]
         },
         {
