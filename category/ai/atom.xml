@@ -3,65 +3,11 @@
     <id>http://mingshen.eu.org</id>
     <title>猫猫转圈圈~ • Posts by &#34;ai&#34; category</title>
     <link href="http://mingshen.eu.org" />
-    <updated>2023-08-29T10:16:40.000Z</updated>
+    <updated>2023-04-01T08:05:44.000Z</updated>
     <category term="AI" />
     <category term="教程" />
     <category term="Stable Diffusion" />
     <category term="杂谈" />
-    <entry>
-        <id>http://mingshen.eu.org/2023/08/29/note/ai/sd/%E5%85%B3%E4%BA%8E%E9%A1%BA%E7%BD%91%E7%81%B5%E6%82%89%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%BB%BA%E8%AE%AE/</id>
-        <title>关于顺网灵悉的若干建议</title>
-        <link rel="alternate" href="http://mingshen.eu.org/2023/08/29/note/ai/sd/%E5%85%B3%E4%BA%8E%E9%A1%BA%E7%BD%91%E7%81%B5%E6%82%89%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%BB%BA%E8%AE%AE/"/>
-        <content type="html">&lt;h1 id=&#34;关于顺网灵悉的若干建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于顺网灵悉的若干建议&#34;&gt;#&lt;/a&gt; 关于顺网灵悉的若干建议&lt;/h1&gt;
-&lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;
-&lt;p&gt;目前，顺网灵悉的测试版本已经上线，开放的功能包括 AI 聊天、写作、图像生成等。我在此针对 UI、文生图、文生文等功能提出一些建议&lt;/p&gt;
-&lt;h2 id=&#34;ui-方面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ui-方面&#34;&gt;#&lt;/a&gt; UI 方面&lt;/h2&gt;
-&lt;h3 id=&#34;icon-和-ui-主题色不匹配&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#icon-和-ui-主题色不匹配&#34;&gt;#&lt;/a&gt; icon 和 UI 主题色不匹配&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/KHvaro3UXbEVpmZ.png&#34; alt=&#34;Picsee-20230829184251&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;icon 和 UI 颜色不匹配会有一定割裂感，市面上较为有代表性的 AI 软件基本都会统一一个主题色（也有助于树立品牌效应）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ChatX 的 icon 和界面&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/jPSdtU4aAsrZJXM.png&#34; alt=&#34;Picsee-20230829184445&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/RsHDNmfvS1uOLTG.png&#34; alt=&#34;Picsee-20230829184655&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;退出及最小化反直觉&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#退出及最小化反直觉&#34;&gt;#&lt;/a&gt; 退出及最小化反直觉&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/gNPi5A3OXTdUHWB.png&#34; alt=&#34;Picsee-20230829184744&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;按退出键后会有悬浮窗持续存在&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/UkQEsKWSoltID8G.png&#34; alt=&#34;Picsee-20230829184832&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;最小化时则不存在悬浮窗&lt;/p&gt;
-&lt;p&gt;** 按直觉来说退出之后应该软件本体包括后台进程全部退出，最小化则会最小化为悬浮窗。** 现在这样的操作逻辑容易使人不知道如何完全退出软件。&lt;/p&gt;
-&lt;p&gt;![image-20230829185312841](/Users/fanchenjia/Library/Application Support/typora-user-images/image-20230829185312841.png)&lt;/p&gt;
-&lt;p&gt;设置面板可以与个人中心分离单拎出来放在左下角，具体参考&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/F817eCWiQzjKGIJ.png&#34; alt=&#34;Picsee-20230829185428&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;微信 mac 版&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/3EifhWqMAbFQX9d.png&#34; alt=&#34;Picsee-20230829185508&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;QQNT&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;文生文方面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文生文方面&#34;&gt;#&lt;/a&gt; 文生文方面&lt;/h2&gt;
-&lt;p&gt;语言模型的调试暂不谈论，旁边的 Live2D 有几点&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/uHvsaYe12ghSQxp.png&#34; alt=&#34;Picsee-20230829185635&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;首先是鼠标跟随，只有头部转动，眼部不转动，效果及其诡异&lt;/p&gt;
-&lt;p&gt;可以参考以下 Live2D&lt;/p&gt;
-&lt;p&gt;另：可以给灵悉设计一个看板娘，整体聊天的 Live2D 可以偏向二次元风格一点而非真人风格，比较迎合年轻游戏玩家爱好吧&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/08/29/moXMEw4VqfGxe9d.png&#34; alt=&#34;Picsee-20230829183048&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="Stable Diffusion" />
-        <category term="杂谈" />
-        <updated>2023-08-29T10:16:40.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://mingshen.eu.org/2023/04/09/note/ai/sd/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
-        <title>漫谈Stable Diffusion - 第二章</title>
-        <link rel="alternate" href="http://mingshen.eu.org/2023/04/09/note/ai/sd/%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
-        <content type="html">&lt;h1 id=&#34;漫谈stable-diffusion-第二章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#漫谈stable-diffusion-第二章&#34;&gt;#&lt;/a&gt; 漫谈 Stable Diffusion - 第二章&lt;/h1&gt;
-</content>
-        <category term="Stable Diffusion" />
-        <category term="杂谈" />
-        <updated>2023-04-09T04:40:31.000Z</updated>
-    </entry>
     <entry>
         <id>http://mingshen.eu.org/2023/04/01/note/ai/sd/%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
         <title>漫谈Stable Diffusion-第一章</title>
